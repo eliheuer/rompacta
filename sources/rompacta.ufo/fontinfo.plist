@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descender</key>
+	<real>-200</real>
+	<key>capHeight</key>
+	<real>700</real>
+	<key>ascender</key>
+	<real>700</real>
+</dict>
+</plist>
