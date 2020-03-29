@@ -52,6 +52,8 @@
 	<string>X_.glif</string>
 	<key>Y</key>
 	<string>Y_.glif</string>
+	<key>Z</key>
+	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>b</key>
@@ -90,6 +92,8 @@
 	<string>r.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>u</key>
