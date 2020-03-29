@@ -8,5 +8,17 @@
 	<real>700</real>
 	<key>ascender</key>
 	<real>700</real>
+	<key>copyright</key>
+	<string>Copyright 2020 The Rompacta Project Authors (https://github.com/eliheuer/rompacta)</string>
+	<key>familyName</key>
+	<string>Rompacta</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
 </dict>
 </plist>
