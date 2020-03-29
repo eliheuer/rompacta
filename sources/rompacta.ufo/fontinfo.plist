@@ -2,23 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>descender</key>
-	<real>-200</real>
-	<key>capHeight</key>
-	<real>700</real>
-	<key>ascender</key>
-	<real>700</real>
-	<key>copyright</key>
-	<string>Copyright 2020 The Rompacta Project Authors (https://github.com/eliheuer/rompacta)</string>
 	<key>familyName</key>
 	<string>Rompacta</string>
-	<key>unitsPerEm</key>
-	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
 	<integer>0</integer>
+	<key>copyright</key>
+	<string>Copyright 2020 The Rompacta Project Authors (https://github.com/eliheuer/rompacta)</string>
+	<key>unitsPerEm</key>
+	<real>1000</real>
+	<key>descender</key>
+	<real>-200</real>
 	<key>xHeight</key>
-	<integer>500</integer>
+	<real>500</real>
+	<key>capHeight</key>
+	<real>700</real>
+	<key>ascender</key>
+	<real>700</real>
 </dict>
 </plist>
